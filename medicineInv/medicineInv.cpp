@@ -41,8 +41,6 @@ int main()
 
     int size;
     string s1;
-    int n1;
-    int n2;
     int numSearch;
 
     // array size input
